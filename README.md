@@ -53,4 +53,6 @@ Here are some other implementations of port-knocking:
 
   - [pasmal](http://sourceforge.net/projects/pasmal/)
   - [doorman](http://doorman.sourceforge.net/)
+  - [cerberus](https://github.com/Teknexx/cerberus)
+
 
